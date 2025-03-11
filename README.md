@@ -6,5 +6,3 @@
 - 🌱 Currently learning Go, [Swift on Server](https://www.swift.org/documentation/server/) and how to take freetime
 - 📫 How to reach me: Mail ([kontakt@paul-goldschmidt.de](mailto:kontakt@paul-goldschmidt.de)) or [Twitter/𝕏](https://twitter.com/pauIgoldschmidt)
 - 😄 Pronouns: He/Him
-
-![Statistics](https://github-readme-stats.vercel.app/api?username=paulgoldschmidt&show_icons=true&theme=tokyonight)
